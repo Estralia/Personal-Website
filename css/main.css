@@ -37,6 +37,7 @@ i:hover {
 h1 {
     font-size: 2em;
     cursor: default;
+    position: relative;
 }
 
 .brand {
